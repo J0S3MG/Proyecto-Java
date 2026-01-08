@@ -25,17 +25,15 @@ Este proyecto es una aplicación web full-stack diseñada para la gestión integ
 
 ## 🚀 Tecnologías Utilizadas
 
-* **Backend:**
-    * Java 21
-    * Spring Boot 3.5.0
-    * Spring Data JPA (con Hibernate)
-    * Spring Data MongoDB
-    * Spring Data Redis
-    * PostgreSQL
-    * Maven
-* **Frontend:**
-    * Vaadin Flow 24.7.6
-* **Bases de Datos:**
-    * PostgreSQL
-    * MongoDB
+| Tecnología              | Descripción                                                                                                                           |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| **Java 21**             | Versión de soporte extendido (LTS) del lenguaje, aprovechando características modernas como Virtual Threads para mayor escalabilidad. |
+| **Spring Boot 3.5.0**   | Framework principal para agilizar el desarrollo de aplicaciones robustas, configurables y listas para producción.                     |
+| **Spring Data JPA**     | Abstracción que simplifica el acceso a datos relacionales utilizando Hibernate como motor de persistencia de objetos.                 |
+| **Spring Data MongoDB** | Módulo encargado de la integración fluida con MongoDB para el manejo de persistencia NoSQL orientada a documentos.                    |
+| **Spring Data Redis**   | Implementación para el manejo de caché y estructuras de datos en memoria para optimizar la velocidad del sistema.                     |
+| **Vaadin Flow 24.7.6**  | Framework de frontend que permite construir interfaces web modernas y dinámicas programando completamente en Java.                    |
+| **PostgreSQL**          | Sistema de gestión de bases de datos relacionales de código abierto, robusto y altamente escalable.                                   |
+| **MongoDB**             | Base de datos NoSQL de alto rendimiento utilizada para el almacenamiento flexible de datos no estructurados.                          |
+| **Maven**               | Herramienta de gestión de dependencias y automatización del ciclo de vida de construcción del proyecto.                               | 
 ---
