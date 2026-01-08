@@ -1,6 +1,7 @@
 # 👨‍👩‍👧‍👦 Gestión de Personas y Tareas (Vaadin Flow & Spring Boot) 📝
 
-Este proyecto es una aplicación web full-stack diseñada para la gestión integral de **Personas** y las **Tareas** que tienen asignadas. Desarrollada con el framework **Vaadin Flow** para la interfaz de usuario y **Spring Boot** para el backend, combina la flexibilidad de bases de datos relacionales y NoSQL para una persistencia robusta y segura.
+Como aclaracion realice este proyecto junto a una  compañera de la carrera. No es un desarrollo muy profesional pero demuestra mí interes por querer aprender y aunque hay muchas cosas mejorables decidi dejarlo así para que se vea mi evolucion a traves de los años en otros proyectos. 
+Es una aplicación web full-stack diseñada para la gestión integral de **Personas** y las **Tareas** que tienen asignadas. Desarrollada con el framework **Vaadin Flow** para la interfaz de usuario y **Spring Boot** para el backend, combina la flexibilidad de bases de datos relacionales y NoSQL para una persistencia robusta y segura.
 
 ## ✨ Características Principales
 
@@ -22,7 +23,7 @@ Este proyecto es una aplicación web full-stack diseñada para la gestión integ
     * **Navegación Intuitiva:** Transición sencilla entre las vistas de gestión de Personas y Tareas.
 * **Base Robusta de Spring Boot:**
     * Configuración simplificada, inyección de dependencias y facilidad de despliegue gracias al ecosistema de Spring Boot.
-
+---
 ## 🚀 Tecnologías Utilizadas
 
 | Tecnología              | Descripción                                                                                                                           |
@@ -37,3 +38,15 @@ Este proyecto es una aplicación web full-stack diseñada para la gestión integ
 | **MongoDB**             | Base de datos NoSQL de alto rendimiento utilizada para el almacenamiento flexible de datos no estructurados.                          |
 | **Maven**               | Herramienta de gestión de dependencias y automatización del ciclo de vida de construcción del proyecto.                               | 
 ---
+## Desarrollado por:
+
+### 🧑‍💻 José Manuel González
+* **Email:** [josemanuelgonzalez.dev@gmail.com](mailto:josemanuelgonzalez.dev@gmail.com)
+* **LinkedIn:** [linkedin.com/in/jose-manuel-gonzalez](https://www.linkedin.com/in/jose-manuel-gonzalez-98b986214/)
+
+---
+
+### 👩‍💻 Maxima Vanesa Caceres Alba
+* **Email:** [maximavanecaceres@gmail.com](mailto:maximavanecaceres@gmail.com)
+* **GitHub:** [github.com/MaximaCaceres](https://github.com/MaximaCaceres)
+* **LinkedIn:** [linkedin.com/in/máxima-cáceres](https://www.linkedin.com/in/m%C3%A1xima-c%C3%A1ceres/)
