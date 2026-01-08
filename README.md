@@ -1,6 +1,7 @@
 # 👨‍👩‍👧‍👦 Gestión de Personas y Tareas (Vaadin Flow & Spring Boot) 📝
 
 Como aclaracion realice este proyecto junto a una  compañera de la carrera. No es un desarrollo muy profesional pero demuestra mí interes por querer aprender y aunque hay muchas cosas mejorables decidi dejarlo así para que se vea mi evolucion a traves de los años en otros proyectos. 
+
 Es una aplicación web full-stack diseñada para la gestión integral de **Personas** y las **Tareas** que tienen asignadas. Desarrollada con el framework **Vaadin Flow** para la interfaz de usuario y **Spring Boot** para el backend, combina la flexibilidad de bases de datos relacionales y NoSQL para una persistencia robusta y segura.
 
 ## ✨ Características Principales
